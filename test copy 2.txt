@@ -6,3 +6,10 @@ da
 scasasc
 asc
 scas
+a
+b
+c
+d
+e
+h
+v
